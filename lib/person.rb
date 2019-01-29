@@ -4,4 +4,4 @@ end
 
 Person = adele_goldberg.new
 
-Person = Tom.new 
+Person = alan_kay.new 
