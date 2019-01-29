@@ -1,7 +1,7 @@
 Class Dog 
 
-
 end 
+
 fiddo = Dog.new 
 
 snoopy = Dog.new
