@@ -2,7 +2,7 @@ Class Dog
 
 
 end 
-GOlden = Dog.new 
+l = Dog.new 
 
 Husky = Dog.new
 
