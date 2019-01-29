@@ -2,8 +2,8 @@ Class Dog
 
 
 end 
-l = Dog.new 
+fiddo = Dog.new 
 
-Husky = Dog.new
+snoopy = Dog.new
 
-German = Dog.new 
+lassie = Dog.new 
