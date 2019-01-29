@@ -2,4 +2,6 @@ Class NewPerson
 
 end
 
-NewPerson = Jared
+NewPerson = Jared.new
+
+NewPerson = Tom.new 
