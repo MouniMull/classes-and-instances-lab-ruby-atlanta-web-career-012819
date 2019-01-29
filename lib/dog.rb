@@ -2,6 +2,8 @@ Class Dog
 
 
 end 
+GOlden = Dog.new 
 
+Husky = Dog.new
 
-Dog. Golden 
+German = Dog.new 
