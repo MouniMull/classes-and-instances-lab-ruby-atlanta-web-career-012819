@@ -1,5 +1,4 @@
 class Person
-
 end
 
 Person = adele_goldberg.new
