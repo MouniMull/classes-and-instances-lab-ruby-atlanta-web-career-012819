@@ -1,7 +1,7 @@
-Class NewPerson
+Class Person
 
 end
 
-NewPerson = Jared.new
+Person = Jared.new
 
-NewPerson = Tom.new 
+Person = Tom.new 
