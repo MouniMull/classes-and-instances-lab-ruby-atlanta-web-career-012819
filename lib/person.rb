@@ -2,6 +2,6 @@ Class Person
 
 end
 
-Person = Jared.new
+Person = adele_goldberg.new
 
 Person = Tom.new 
